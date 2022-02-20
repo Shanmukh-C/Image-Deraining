@@ -5,12 +5,12 @@ PSNR = 35.75
 SSIM = 0.975
 
 ## LOSS
-![](Shanmukh-C/Image-Deraining/imgs/LOSS.png)
+![](https://github.com/Shanmukh-C/Image-Deraining/blob/main/imgs/LOSS.png)
 
 ## SSIM
-![](Shanmukh-C/Image-Deraining/imgs/SSIM.png)
+![](https://github.com/Shanmukh-C/Image-Deraining/blob/main/imgs/SSIM.png)
 
 
 | Input Image                                    | Ground Truth                                     | Predicted                                     |
 |------------------------------------------------|------------------------------------------------|------------------------------------------------|
-| ![](Shanmukh-C/Image-Deraining/imgs/input.png) | ![](Shanmukh-C/Image-Deraining/imgs/true_derained.png) | ![](Shanmukh-C/Image-Deraining/imgs/predicted_derained.png) | 
+| ![](https://github.com/Shanmukh-C/Image-Deraining/blob/main/imgs/input.png) | ![](https://github.com/Shanmukh-C/Image-Deraining/blob/main/imgs/true_derained.png) | ![](https://github.com/Shanmukh-C/Image-Deraining/blob/main/imgs/predicted_derained.png) | 
